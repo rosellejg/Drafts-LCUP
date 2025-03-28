@@ -1,0 +1,6 @@
+@LCUP_HostAddress = http://localhost:5259
+
+GET {{LCUP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

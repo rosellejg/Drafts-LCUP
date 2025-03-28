@@ -1,0 +1,103 @@
+[
+  {
+    "ContainingType": "LCUP.Controllers.EnrollmentController",
+    "Method": "EmergencyContact",
+    "RelativePath": "api/Enrollment/EmergencyContact",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "emergency",
+        "Type": "LCUP.Models.EmergencyContact",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LCUP.Controllers.EnrollmentController",
+    "Method": "ApplicationForm2",
+    "RelativePath": "api/Enrollment/FamilyBackground",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "familyBG",
+        "Type": "LCUP.Models.Application_FormDTO_FamilyBG",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LCUP.Controllers.EnrollmentController",
+    "Method": "getstudentbyID",
+    "RelativePath": "api/Enrollment/GetStudentInformationbyID",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Student_Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LCUP.Controllers.EnrollmentController",
+    "Method": "CreateStudentInfo",
+    "RelativePath": "api/Enrollment/Registration",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "application_FormDTO",
+        "Type": "LCUP.Models.Application_FormDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LCUP.Controllers.ReportCardController",
+    "Method": "StudentReportCard",
+    "RelativePath": "api/ReportCard/StudentReportCard",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "reportCard",
+        "Type": "LCUP.Models.ReportCardDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LCUP.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[LCUP.WeatherForecast, LCUP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

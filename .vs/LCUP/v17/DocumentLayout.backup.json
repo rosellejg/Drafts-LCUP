@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Learning Session\\LCUP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDBDA5C-9314-4820-8C2E-27999EBFBEC1}|LCUP.csproj|d:\\learning session\\lcup\\migrations\\20250324104300_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DDBDA5C-9314-4820-8C2E-27999EBFBEC1}|LCUP.csproj|solutionrelative:migrations\\20250324104300_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDBDA5C-9314-4820-8C2E-27999EBFBEC1}|LCUP.csproj|d:\\learning session\\lcup\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DDBDA5C-9314-4820-8C2E-27999EBFBEC1}|LCUP.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDBDA5C-9314-4820-8C2E-27999EBFBEC1}|LCUP.csproj|d:\\learning session\\lcup\\migrations\\20250325023943_familybg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DDBDA5C-9314-4820-8C2E-27999EBFBEC1}|LCUP.csproj|solutionrelative:migrations\\20250325023943_familybg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDBDA5C-9314-4820-8C2E-27999EBFBEC1}|LCUP.csproj|d:\\learning session\\lcup\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DDBDA5C-9314-4820-8C2E-27999EBFBEC1}|LCUP.csproj|solutionrelative:controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDBDA5C-9314-4820-8C2E-27999EBFBEC1}|LCUP.csproj|d:\\learning session\\lcup\\migrations\\20250327022503_reportcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DDBDA5C-9314-4820-8C2E-27999EBFBEC1}|LCUP.csproj|solutionrelative:migrations\\20250327022503_reportcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDBDA5C-9314-4820-8C2E-27999EBFBEC1}|LCUP.csproj|d:\\learning session\\lcup\\controllers\\reportcardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DDBDA5C-9314-4820-8C2E-27999EBFBEC1}|LCUP.csproj|solutionrelative:controllers\\reportcardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDBDA5C-9314-4820-8C2E-27999EBFBEC1}|LCUP.csproj|d:\\learning session\\lcup\\models\\reportcarddb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DDBDA5C-9314-4820-8C2E-27999EBFBEC1}|LCUP.csproj|solutionrelative:models\\reportcarddb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDBDA5C-9314-4820-8C2E-27999EBFBEC1}|LCUP.csproj|d:\\learning session\\lcup\\models\\reportcarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DDBDA5C-9314-4820-8C2E-27999EBFBEC1}|LCUP.csproj|solutionrelative:models\\reportcarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDBDA5C-9314-4820-8C2E-27999EBFBEC1}|LCUP.csproj|d:\\learning session\\lcup\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DDBDA5C-9314-4820-8C2E-27999EBFBEC1}|LCUP.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDBDA5C-9314-4820-8C2E-27999EBFBEC1}|LCUP.csproj|d:\\learning session\\lcup\\models\\applicationformdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DDBDA5C-9314-4820-8C2E-27999EBFBEC1}|LCUP.csproj|solutionrelative:models\\applicationformdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDBDA5C-9314-4820-8C2E-27999EBFBEC1}|LCUP.csproj|d:\\learning session\\lcup\\models\\application_formdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DDBDA5C-9314-4820-8C2E-27999EBFBEC1}|LCUP.csproj|solutionrelative:models\\application_formdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDBDA5C-9314-4820-8C2E-27999EBFBEC1}|LCUP.csproj|d:\\learning session\\lcup\\models\\entity\\applicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DDBDA5C-9314-4820-8C2E-27999EBFBEC1}|LCUP.csproj|solutionrelative:models\\entity\\applicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250324104300_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Learning Session\\LCUP\\Migrations\\20250324104300_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250324104300_InitialCreate.cs",
+              "ToolTip": "D:\\Learning Session\\LCUP\\Migrations\\20250324104300_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250324104300_InitialCreate.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T02:23:53.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250325023943_familybg.cs",
+              "DocumentMoniker": "D:\\Learning Session\\LCUP\\Migrations\\20250325023943_familybg.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250325023943_familybg.cs",
+              "ToolTip": "D:\\Learning Session\\LCUP\\Migrations\\20250325023943_familybg.cs",
+              "RelativeToolTip": "Migrations\\20250325023943_familybg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T02:23:51.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReportCardDTO.cs",
+              "DocumentMoniker": "D:\\Learning Session\\LCUP\\Models\\ReportCardDTO.cs",
+              "RelativeDocumentMoniker": "Models\\ReportCardDTO.cs",
+              "ToolTip": "D:\\Learning Session\\LCUP\\Models\\ReportCardDTO.cs",
+              "RelativeToolTip": "Models\\ReportCardDTO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T01:55:44.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReportCardController.cs",
+              "DocumentMoniker": "D:\\Learning Session\\LCUP\\Controllers\\ReportCardController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReportCardController.cs",
+              "ToolTip": "D:\\Learning Session\\LCUP\\Controllers\\ReportCardController.cs",
+              "RelativeToolTip": "Controllers\\ReportCardController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T01:49:51.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Application_FormDTO.cs",
+              "DocumentMoniker": "D:\\Learning Session\\LCUP\\Models\\Application_FormDTO.cs",
+              "RelativeDocumentMoniker": "Models\\Application_FormDTO.cs",
+              "ToolTip": "D:\\Learning Session\\LCUP\\Models\\Application_FormDTO.cs",
+              "RelativeToolTip": "Models\\Application_FormDTO.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAxwFEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T06:39:01.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnrollmentController.cs",
+              "DocumentMoniker": "D:\\Learning Session\\LCUP\\Controllers\\EnrollmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EnrollmentController.cs",
+              "ToolTip": "D:\\Learning Session\\LCUP\\Controllers\\EnrollmentController.cs",
+              "RelativeToolTip": "Controllers\\EnrollmentController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAowIMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T10:54:23.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Learning Session\\LCUP\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Learning Session\\LCUP\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T02:25:30.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReportCardDB.cs",
+              "DocumentMoniker": "D:\\Learning Session\\LCUP\\Models\\ReportCardDB.cs",
+              "RelativeDocumentMoniker": "Models\\ReportCardDB.cs",
+              "ToolTip": "D:\\Learning Session\\LCUP\\Models\\ReportCardDB.cs",
+              "RelativeToolTip": "Models\\ReportCardDB.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAYwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T02:03:17.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250327022503_reportcard.cs",
+              "DocumentMoniker": "D:\\Learning Session\\LCUP\\Migrations\\20250327022503_reportcard.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250327022503_reportcard.cs",
+              "ToolTip": "D:\\Learning Session\\LCUP\\Migrations\\20250327022503_reportcard.cs",
+              "RelativeToolTip": "Migrations\\20250327022503_reportcard.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T02:25:21.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Learning Session\\LCUP\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Learning Session\\LCUP\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:59:29.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationFormDB.cs",
+              "DocumentMoniker": "D:\\Learning Session\\LCUP\\Models\\ApplicationFormDB.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationFormDB.cs",
+              "ToolTip": "D:\\Learning Session\\LCUP\\Models\\ApplicationFormDB.cs",
+              "RelativeToolTip": "Models\\ApplicationFormDB.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAArwDYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T12:10:35.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationForm.cs",
+              "DocumentMoniker": "D:\\Learning Session\\LCUP\\Models\\Entity\\ApplicationForm.cs",
+              "RelativeDocumentMoniker": "Models\\Entity\\ApplicationForm.cs",
+              "ToolTip": "D:\\Learning Session\\LCUP\\Models\\Entity\\ApplicationForm.cs",
+              "RelativeToolTip": "Models\\Entity\\ApplicationForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T06:55:56.366Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
